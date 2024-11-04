@@ -8,7 +8,7 @@ This repo is to find out which neighborhood in Pittsburgh is best to _______.
 All of the datasets are from WPRDC:
 list of 3 datasets:
  1. https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
- 2. 
+ 2. https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/4ab1e23f-3262-4bd3-adbf-f72f0119108b
  3. 
 
 ## Group Members
