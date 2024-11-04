@@ -6,23 +6,23 @@ This repo is to find out which neighborhood in Pittsburgh is best to live in bas
 
 ## Dataset Used
 All of the datasets are from WPRDC:
- 1. [Pittsburgh Police Arrest Data](https://data.wprdc.org/dataset/arrest-data)
- 2. [Allegheny County Air Quality](https://data.wprdc.org/dataset/allegheny-county-air-quality)
- 3. [Allegheny County Mortality Indicators](https://data.wprdc.org/dataset/allegheny-county-mortality-indicators)
+ 1. [Pittsburgh Police Arrest Data](https://data.wprdc.org/dataset/arrest-data): This dataset contains information about the arrests in Pittsburgh.
+ 2. [Allegheny County Air Quality](https://data.wprdc.org/dataset/allegheny-county-air-quality): This dataset contains information about air quality recorded in Allegheny County.
+ 3. [Allegheny County Mortality Indicators](https://data.wprdc.org/dataset/allegheny-county-mortality-indicators): This data set contains information about mortalities, both age and cause of death, in Allegheny County.
 
 ## Group Members
-- Joshua Sakolsky-Madaras
-- Sumay Sethia
+Joshua Sakolsky-Madaras, jes521@pitt.edu
+Sumay Sethia, sus225@pitt.edu
 
 ## Responsibilities
-- Joshua Sakolsky-Madaras: Allegheny County Mortality Indicators
-- Sumay Sethia: Pittsburgh Police Arrest Data
+Joshua Sakolsky-Madaras: Allegheny County Mortality Indicators
+Sumay Sethia: Pittsburgh Police Arrest Data
 
 ## Getting Started 
 1. This repo uses Jupyter Notebook
-2. Type in git clone https://github.com/JSakMad/2251-CMPINF0010-Final-Project.git into your terminal and hit enter
-3. You'll see a folder named 2251-CMPINF0010-Final-Project; double click on it to open
-4. Launch the .ipynb notebooks.
+2. Type in `git clone https://github.com/JSakMad/2251-CMPINF0010-Final-Project.git` into your terminal and hit enter
+3. You'll see a folder named *2251-CMPINF0010-Final-Project*; double-click on it to open
+4. Launch the `.ipynb` notebooks.
 
 ## Contributing
 1. Fork the Project
