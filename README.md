@@ -11,12 +11,12 @@ All of the datasets are from WPRDC:
  3. [Allegheny County Mortality Indicators](https://data.wprdc.org/dataset/allegheny-county-mortality-indicators): This data set contains information about mortalities, both age and cause of death, in Allegheny County.
 
 ## Group Members
-Joshua Sakolsky-Madaras, jes521@pitt.edu
-Sumay Sethia, sus225@pitt.edu
++ Joshua Sakolsky-Madaras, jes521@pitt.edu
++ Sumay Sethia, sus225@pitt.edu
 
 ## Responsibilities
-Joshua Sakolsky-Madaras: Allegheny County Mortality Indicators
-Sumay Sethia: Pittsburgh Police Arrest Data
++ Joshua Sakolsky-Madaras: Allegheny County Mortality Indicators
++ Sumay Sethia: Pittsburgh Police Arrest Data
 
 ## Getting Started 
 1. This repo uses Jupyter Notebook
