@@ -10,8 +10,7 @@ All of the datasets are from WPRDC:
  2. [Allegheny County Particulate Matter](https://data.wprdc.org/dataset/particulate-matter-2-5): This dataset contains information about particulate matter recorded in Allegheny County.
  3. [Pittsburgh Police Arrest Data](https://data.wprdc.org/dataset/arrest-data): This dataset contains information about the arrests in Pittsburgh. 
  4. [Allegheny County Air Quality](https://data.wprdc.org/dataset/allegheny-county-air-quality): This data set contains information about the air quality in Allegheny County.
-Supplemental dataset:
- + [City of Pittsburgh Neighborhoods](https://data.wprdc.org/dataset/neighborhoods2): This data set contains information about the names and location of the neighborhoods in Pittsburgh.
+ 5. [City of Pittsburgh Neighborhoods](https://data.wprdc.org/dataset/neighborhoods2): This data set contains information about the names and location of the neighborhoods in Pittsburgh.
 
 ## Group Members
 + Joshua Sakolsky-Madaras, jes521@pitt.edu
