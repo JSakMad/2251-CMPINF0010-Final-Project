@@ -6,9 +6,10 @@ This repo is to find out which neighborhood in Pittsburgh is best to live in bas
 
 ## Dataset Used
 All of the datasets are from WPRDC:
- 1. [Pittsburgh Police Arrest Data](https://data.wprdc.org/dataset/arrest-data): This dataset contains information about the arrests in Pittsburgh.
+ 1. [Allegheny County Mortality Indicators](https://data.wprdc.org/dataset/allegheny-county-mortality-indicators): This data set contains information about mortalities, both age and cause of death, in Allegheny County.
  2. [Allegheny County Particulate Matter](https://data.wprdc.org/dataset/particulate-matter-2-5): This dataset contains information about particulate matter recorded in Allegheny County.
- 3. [Allegheny County Mortality Indicators](https://data.wprdc.org/dataset/allegheny-county-mortality-indicators): This data set contains information about mortalities, both age and cause of death, in Allegheny County.
+ 3. [Pittsburgh Police Arrest Data](https://data.wprdc.org/dataset/arrest-data): This dataset contains information about the arrests in Pittsburgh. 
+ 4. [Allegheny County Air Quality](https://data.wprdc.org/dataset/allegheny-county-air-quality): This data set contains information about the air quality in Allegheny County.
 
 ## Group Members
 + Joshua Sakolsky-Madaras, jes521@pitt.edu
@@ -16,7 +17,7 @@ All of the datasets are from WPRDC:
 
 ## Responsibilities
 + Joshua Sakolsky-Madaras: Allegheny County Mortality Indicators & Allegheny County Particulate Matter
-+ Sumay Sethia: Pittsburgh Police Arrest Data
++ Sumay Sethia: Pittsburgh Police Arrest Data & Allegheny County Air Quality
 
 ## Getting Started 
 1. This repo uses Jupyter Notebook
